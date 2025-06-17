@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "67efc2b92e9616c7cda5a055"
+  },
+  "name": "Ипотека",
+  "rateYear": 9.6,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67efc3792e9616c7cda5a059"
+  },
+  "name": "Автокридит",
+  "rateYear": 3.5,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67efc38f2e9616c7cda5a05b"
+  },
+  "name": "Потребительский",
+  "rateYear": 14.5,
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f504ba0d8618c4b98d9712"
+  },
+  "name": "Кридит",
+  "rateYear": 8.9,
+  "status": false,
+  "__v": 0
+}]
